@@ -1,9 +1,9 @@
 # Report
 
-##Installing software
+## Installing software
 I already had all the relevant software installed. I validated the software by checking that I had the correct versions in the terminal for all of the required software.
 
-##Heroku tutorial
+## Heroku tutorial
 Overall the tutorial was very well written and I really had no problems following it. These are the minor things I encountered:
 When defining config vars I made a small syntax error when adding to the Java code, causing "mvn clean install" to give an error.
 I corrected this and it immediately worked when running the command again.
