@@ -1,0 +1,1 @@
+C:\Users\sofia\OneDrive\Documents\DAT250\Exp2\expass2\build\classes\java\main\basicexample\App.class;C:\Users\sofia\OneDrive\Documents\DAT250\Exp2\expass2\build\classes\java\main\basicexample\Main.class;C:\Users\sofia\OneDrive\Documents\DAT250\Exp2\expass2\build\classes\java\main\basicexample\Todo.class

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 14 19:48:01 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0175-c815-e711-000006aa6a38 
+on database directory C:\Users\sofia\OneDrive\Documents\DAT250\Exp2\expass2\persistence\bankdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/sofia/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.15.2.0/b64da6681994f33ba5783ffae55cdb44885b9e70/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.2+10
+user.dir=C:\Users\sofia\OneDrive\Documents\DAT250\Exp2\expass2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

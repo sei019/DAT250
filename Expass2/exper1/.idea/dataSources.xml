@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Apache Derby (Embedded) - bankdb" uuid="51969bd3-4e76-4a09-8719-96bc2a52ae8b">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:C:\Users\sofia\OneDrive\Documents\DAT250\Exp2\expass2\persistence\bankdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
