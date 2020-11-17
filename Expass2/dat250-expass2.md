@@ -8,7 +8,6 @@ See screenshot database.jpg.
 See code in the model package of the project (experiment2). Tables.jpg.
 
 
-
 There were several problems underway in this assignment with
 configurations. Especially it took considerable effort to get the
 dependencies to function as intended. (Adding to the library/grade/maven did not work as it normally would.) I solved it eventually.
